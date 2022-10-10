@@ -1,0 +1,23 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "extends": [
+    "plugin:vue/recommended",
+    "eslint:recommended"
+  ],
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "rules": {
+    "indent": [2, 2, {
+      "SwitchCase": 1
+      }],
+    "semi": 2,
+    "eol-last": 2,
+    "quotes": [2, "single"],
+    "jsx-quotes": [2, "prefer-double"]
+  }
+}

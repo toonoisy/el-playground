@@ -1,0 +1,11 @@
+[
+  {
+    "index": "selectable-table"
+  },
+  {
+    "index": "filterable-column"
+  },
+  {
+    "index": "prevent-multi-clicks"
+  }
+]
